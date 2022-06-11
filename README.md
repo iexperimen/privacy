@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @iexperimen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Privacy iExperiment
+This privacy for iExperiment
 
-<!---
-iexperimen/iexperimen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Content
+Deploy Website
+Android Studio
+Spark AR Creator
